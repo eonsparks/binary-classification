@@ -9,7 +9,6 @@ This repository contains a simple implementation of a binary classification algo
 3. [Implementation](#implementation)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
