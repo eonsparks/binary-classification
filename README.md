@@ -1,6 +1,6 @@
 # Binary Classification Algorithm
 
-This repository contains a simple implementation of a binary classification algorithm using logistic regression. The algorithm is implemented in Python without relying on machine learning libraries.
+This repository contains a simple implementation of a binary classification algorithm. The algorithm is implemented in jupyter notebooks with the use of pandas, matplotlib and numpy.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This repository contains a simple implementation of a binary classification algo
 
 ## Introduction
 
-Binary classification is a fundamental task in machine learning where the goal is to categorize input data into one of two classes. This implementation focuses on logistic regression, a simple yet effective algorithm for binary classification.
+Binary classification is a fundamental task in machine learning where the goal is to categorize input data into one of two classes. 
 
 ## Algorithm Overview
 
